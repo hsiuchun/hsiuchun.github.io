@@ -68,3 +68,8 @@ a {
     color: #0c0c0c;
     transform: translateY(-50%);
 }
+@media(min-width: 768px){
+    .card img{
+        height: 11em
+    }
+}
