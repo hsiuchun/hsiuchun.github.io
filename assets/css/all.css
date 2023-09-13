@@ -74,7 +74,7 @@ a {
         display: none;
     }
     .carousel-inner .carousel-item > div:first-child {
-        display: flex;
+        display: block;
     }
 }
 
@@ -102,3 +102,4 @@ a {
 .carousel-inner .carousel-item-left{ 
   transform: translateX(0);
 }
+
